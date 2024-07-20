@@ -1,0 +1,2 @@
+- 題目來源: [網頁](https://apcs.csie.ntnu.edu.tw/index.php/questionstypes/previousexam/), [檔案](https://apcs.csie.ntnu.edu.tw/wp-content/uploads/2022/10/%E5%AF%A6%E4%BD%9C%E9%A1%8C_%E9%A1%8C%E5%9E%8B%E7%AF%84%E4%BE%8B.pdf)
+- oj位置: [zerojudge](https://zerojudge.tw/)
